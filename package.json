@@ -1,0 +1,12 @@
+{
+  "name": "in-memory-database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YiTingLee/in-memory-database.git",
+  "author": "Eric Lee <ranye0719@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
