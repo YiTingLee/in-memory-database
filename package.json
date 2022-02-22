@@ -7,6 +7,13 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "watch": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "node-sql-parser": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
